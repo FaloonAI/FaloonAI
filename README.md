@@ -14,8 +14,13 @@
   
 ---
 
+### 💡 Fun Fact
+⚡ I automate everything I can – from dev environments to my coffee brewing ☕  
+
+---
+
 ### 📌 Featured Projects
-<p align="center">
+<p align="left">
   <a href="https://github.com/FaloonAI/delivery_opensource">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=faloonai&repo=delivery_opensource&theme=tokyonight" />
   </a>
@@ -27,7 +32,7 @@
 ---
 
 ### 🛠 Languages & Tools
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,c" /><br/>
   <img src="https://skillicons.dev/icons?i=fastapi,postgresql,redis" /><br/>
   <img src="https://skillicons.dev/icons?i=docker,git,linux,bash" /><br/>
@@ -37,7 +42,7 @@
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://t.me/tryb0t" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="mailto:faloonia@yandex.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
@@ -58,11 +63,7 @@
 
 ---
 
-### 💡 Fun Fact
-⚡ I automate everything I can – from dev environments to my coffee brewing ☕  
-
----
-
 <p align="center">✨ Always learning, always building ✨</p>
+
 
 
