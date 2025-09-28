@@ -27,7 +27,7 @@
 ---
 
 ### 🛠 Languages & Tools
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=py,cpp,c" /><br/>
   <img src="https://skillicons.dev/icons?i=fastapi,postgresql,redis" /><br/>
   <img src="https://skillicons.dev/icons?i=docker,git,linux,bash" /><br/>
@@ -52,7 +52,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faloonai&layout=compact&theme=tokyonight" alt="langs"/>
 </p>
 
@@ -64,4 +64,5 @@
 ---
 
 <p align="center">✨ Always learning, always building ✨</p>
+
 
