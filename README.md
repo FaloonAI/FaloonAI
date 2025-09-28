@@ -1,50 +1,33 @@
-<h1 align="center">Welcome, I'm Faloon 👋</h1>
-<h3 align="center">Aspiring Programmer & Cybersecurity Enthusiast from Russia</h3>
+<h1 align="center">👋 Greetings, I'm <span style="color:#6C63FF;">Faloon</span></h1>
+<h3 align="center">💻 Programmer & Developer from Russia</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=faloonai&label=Profile%20views&color=0e75b6&style=flat" alt="faloonai" /> 
-</p>
+---
 
-- 💬 Ask me about **Bots, scripts, and mini-projects in Python & C/C++. Exploring algorithms, automation, and cybersecurity.**
+### 🚀 About Me  
+- 📚 Currently learning **FastAPI, CI/CD, GitHub Actions, SQL, Docker, Aiogram, Soft Skills**  
+- 👨‍💻 All of my projects: [GitHub Repositories](https://github.com/FaloonAI?tab=repositories)  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🌐 Connect with Me
 <p align="left">
-  <a href="mailto:your_email@example.com" target="_blank">Email</a> • 
-  <a href="https://t.me/your_telegram" target="_blank">Telegram</a> •
-  <a href="https://github.com/FaloonAI" target="_blank">GitHub</a>
+  <a href="https://t.me/YOUR_TELEGRAM" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a>
+---
+
+### 🛠 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,aiogram,postgresql,redis,docker,git,linux,bash,cpp,c,photoshop" />
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faloonai&show_icons=true&locale=en&layout=compact" alt="faloonai" />
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faloonai&show_icons=true&locale=en" alt="faloonai" />
-</p>
+---
 
-<h3 align="left">GitHub Profile Summary:</h3>
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faloonai&theme=radical" alt="Profile Summary" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faloonai&hide_border=true&theme=radical" alt="Streak Stats" />
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faloonai&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faloonai&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faloonai&layout=compact&theme=tokyonight" alt="langs"/>
 </p>
