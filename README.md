@@ -144,13 +144,6 @@ graph LR
     style G fill:#6C63FF
 ```
 
-### 🎯 2025 Goals
-- 🔥 Contribute to 5+ open-source projects
-- 🚀 Deploy production-ready microservices
-- 📚 Master Kubernetes & cloud platforms
-- 🤖 Build advanced Telegram bot framework
-- 🔐 Deep dive into cybersecurity practices
-
 ---
 
 ## 🔥 Fun Facts
@@ -189,16 +182,9 @@ const faloon = {
 
 ---
 
-### 🎵 Now Playing on Spotify
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31l6fxt4tknaudny37lwqvwvzdpa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
----
-
 **✨ "Code is like humor. When you have to explain it, it's bad." ✨**
-
-![Visitor Count](https://profile-counter.glitch.me/faloonai/count.svg)
 
 ⭐️ From [FaloonAI](https://github.com/FaloonAI) with 💜
 
 </div>
+
