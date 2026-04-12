@@ -34,17 +34,5 @@ me.say_hi()
 
 ---
 
-### 💬 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-**✨ "Code is like humor. When you have to explain it, it's bad." ✨**
-
-⭐️ From [FaloonAI](https://github.com/FaloonAI) with 💜
-
-</div>
-
 
 
