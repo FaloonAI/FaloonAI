@@ -4,7 +4,7 @@
 
 ### Digital amnesia | Atrophy of skills | Lazy brain
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=69F729&width=435&lines=We+need+to+find+a+way+to+get+out+of+here.;Help" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playwrite+England+SemiJoined+&weight=100&size=15&pause=1000&color=F7F5F4&width=435&lines=I+found+a+way+out+of+this+apathy." alt="Typing SVG" /></a>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tryb0t)
 [![Email](https://img.shields.io/badge/Yandex-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faloonia@yandex.ru)
