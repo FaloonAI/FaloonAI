@@ -2,7 +2,7 @@
 
 # Hey there, I'm Faloon
 
-### Digital amnesia | Atrophy of skills | Lazy brain
+### 0_0
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playwrite+England+SemiJoined+&weight=100&size=15&pause=1000&color=F7F5F4&center=true&vCenter=true&width=435&lines=I+found+a+way+out+of+this+apathy." alt="Typing SVG" /></a>
 
