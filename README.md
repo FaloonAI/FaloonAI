@@ -27,7 +27,7 @@ public:
     std::string goals = "IDK";
 
     void say_hi() {
-        std::cout << "Thanks for dropping by! Let\'s build something awesome together \xF0\x9F\x9A\x80\" << std::endl;
+        std::cout << "Thanks for dropping by! Let's build something awesome together \xF0\x9F\x9A\x80\n";
     }
 };
 
