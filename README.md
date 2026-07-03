@@ -26,7 +26,7 @@ public:
     std::string current_focus[2] = {"Network", "C/C++"};
     std::string goals = "IDK";
 
-    void say_hi() {
+    void say_hi() const {
         std::cout << "Thanks for dropping by! Let's build something awesome together \xF0\x9F\x9A\x80\n";
     }
 };
