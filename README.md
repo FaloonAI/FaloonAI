@@ -7,31 +7,36 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playwrite+England+SemiJoined+&weight=100&size=15&pause=1000&color=F7F5F4&center=true&vCenter=true&width=435&lines=I+found+a+way+out+of+this+apathy." alt="Typing SVG" /></a>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tryb0t)
-[![Email](https://img.shields.io/badge/Yandex-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faloonia@yandex.ru)
 
 </div>
 
 ---
 
 ## 🚀 About Me
+```cpp
+#include <iostream>
+#include <string>
 
-```python
-class Faloon:
-    def __init__(self):
-        self.username = "FaloonAI"
-        self.role = "Backend Developer"
-        self.location = "Russia 🇷🇺"
-        self.languages = ["Python", "C++", "C", "Go", "Bash"]
-        self.current_focus = []
-        self.goals = []
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something awesome together 🚀")
+class Faloon{
+public:
+    std::string username = "FaloonAI";
+    std::string role = "Developer";
+    std::string location = "Russia";
+    std::string languages[6] = {"Python", "C/C++", "JavaScript", "Bash", "English (A1-A2)", "HTML/CSS"};
+    std::string current_focus[2] = {"Network", "C/C++"};
+    std::string goals = "IDK";
 
-me = Faloon()
-me.say_hi()
+    void say_hi() {
+        std::cout << "Thanks for dropping by! Let's build something awesome together \xF0\x9F\x9A\x80\" << std::endl;
+    }
+};
+
+int main(){
+    Faloon me;
+    me.say_hi();
+    return 0;
+}
 ```
-
 ---
 
 
