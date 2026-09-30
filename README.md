@@ -13,13 +13,12 @@
 ## <img src="./assets/icons/user.svg" width="22" height="22" align="absmiddle"> About
 
 Student starting a career in **backend development (Python)** and building a **T-shaped** skill set: one deep core plus practical breadth around it.
-
-<img src="./assets/tshape.svg" alt="T-shaped skill set: breadth in Linux, networking, hardware, C/C++ and web basics; depth in Python backend" width="100%">
-
 - Into computers since age 7, learning programming for about 5 years
 - Student at the Higher College of Informatics, Novosibirsk State University
 - Outside of code: soldering, microcontrollers, network setup, PC building
 - Current goal: consolidate fundamentals and keep growing steadily
+
+<img src="./assets/tshape.svg" alt="T-shaped skill set: breadth in Linux, networking, hardware, C/C++ and web basics; depth in Python backend" width="100%">
 
 ## <img src="./assets/icons/folder.svg" width="22" height="22" align="absmiddle"> Projects
 
