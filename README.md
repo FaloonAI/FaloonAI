@@ -23,11 +23,11 @@ Student starting a career in **backend development (Python)** and building a **T
 
 ## <img src="./assets/icons/folder.svg" width="22" height="22" align="absmiddle"> Projects
 
-| Project | What it is | My part | Stack |
-|---|---|---|---|
-| **[NodeAccess](https://app.nodeaccess.cc)** | Small VPN service | [infrastructure / bots / billing] | [list] |
-| **[rezeis](https://github.com/dizzzable/rezeis)** | Open-source project | Contributor: [what exactly, PR link] | [list] |
-| **[reiwa](https://github.com/dizzzable/reiwa)** | Open-source project | Contributor: [what exactly, PR link] | [list] |
+| Project | What it is | My part |
+|---|---|---|
+| **[NodeAccess](https://app.nodeaccess.cc)** | Small VPN service | [infrastructure / bots / billing] |
+| **[rezeis](https://github.com/dizzzable/rezeis)** | Open-source project | Contributor |
+| **[reiwa](https://github.com/dizzzable/reiwa)** | Open-source project | Contributor |
 
 <a name="tech"></a>
 ## <img src="./assets/icons/terminal.svg" width="22" height="22" align="absmiddle"> Tech
